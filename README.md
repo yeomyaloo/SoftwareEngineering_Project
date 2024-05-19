@@ -3,6 +3,7 @@
 ### [2021년 1학기 소프트웨어공학 프로젝트](https://github.com/SMU-EB0055/SE2021_HAEA0008_3) - 3조
 
 ---
+![image](https://github.com/yeomyaloo/SoftwareEngineering_Project/assets/81970382/dca4dc1a-2ec9-4471-bf4b-9d80a3a23332)
 ![8  예약내역확인](https://github.com/yeomyaloo/SoftwareEngineering_Project/assets/81970382/77f5c717-d496-4a4b-8f70-629e2ae705ad)
 
 ## :camping: 프로젝트 소개
